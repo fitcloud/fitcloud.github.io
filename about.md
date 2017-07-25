@@ -8,13 +8,7 @@ permalink: /about/
 
 ### Team Members
 
-Full Stack Cloud Engineer : 이성현
-
-CDN Fighter : 홍성택
-
-Security Officer : 이규원
-
-Operation Manager : 배중열
+# ANALYZUM!
 
 
 ### Contact Us
