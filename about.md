@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+클라우드 컨시어지
 
-### More Information
+### Team Members
 
-A place to include any other types of information that you'd like to include about yourself.
+Full Stack Cloud Engineer : 이성현
+CDN Fighter : 홍성택
+Security Officer : 이규원
+Operation Manager : 
 
-### Contact me
+### Contact Us
 
 [aws.support@saltware.co.kr](mailto:aws.support@saltware.co.kr)
