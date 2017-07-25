@@ -8,7 +8,7 @@ permalink: /about/
 
 ### Team Members
 
-# ANALYZUM!
+# ANALYAZUM!
 
 
 ### Contact Us
