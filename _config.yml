@@ -8,6 +8,8 @@ name: FitCloud Techlog
 # Short bio or description (displayed in the header)
 description: Your Cloud Concierge by Saltware FitCloud
 
+lang: ko_KR
+
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://user-images.githubusercontent.com/29446742/28563756-dff7383e-7161-11e7-975b-33f6b2c39b31.png
 
