@@ -17,11 +17,11 @@ permalink: /about/
 [AWS Case Study 바로가기](https://aws.amazon.com/ko/solutions/case-studies/miraeasset/)]
 
 ### Saltware Cloud Concierge
-> Luke - Chief Cloud Concierge
-> Bae Jungyeol - Cloud Concierge [Hardware,OS,CDN,VOD Streaming]
-> Lee Gyuwon - Cloud Concierge [Network,VPN]
-> Ben - Cloud Concierge [WEB,WAS,DB,BigData]
-> Hong Seongtaek - Cloud Concierge [CDN,A.I,BigData]
+>- Luke - Chief Cloud Concierge
+>- Bae Jungyeol - Cloud Concierge [Hardware,OS,CDN,VOD Streaming]
+>- Lee Gyuwon - Cloud Concierge [Network,VPN]
+>- Ben - Cloud Concierge [WEB,WAS,DB,BigData]
+>- Hong Seongtaek - Cloud Concierge [CDN,A.I,BigData]
 
 
 ### Contact Us
