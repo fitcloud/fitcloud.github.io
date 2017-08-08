@@ -24,8 +24,6 @@ permalink: /about/
 #### Ben - Technical Manager [WEB,WAS,DB,BigData]
 #### Hong Seongtaek - Technical Manager [CDN,A.I,BigData]
 
-# ANALYAZUM!
-
 
 ### Contact Us
 
