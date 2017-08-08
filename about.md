@@ -9,12 +9,12 @@ permalink: /about/
 
 
 ![cms_fitcl_partnership_02](https://user-images.githubusercontent.com/30482872/29053426-faf3546e-7c2a-11e7-8439-834168896ca1.gif)
-[원문 바로가기](http://www.aws-partner-directory.com/PartnerDirectory/PartnerDetail?Name=Saltware/)
+[[AWS 파트너 정보 바로가기](http://www.aws-partner-directory.com/PartnerDirectory/PartnerDetail?Name=Saltware/)]
 
 ### Customer References
 ![cms_fitcl_partnership_03](https://user-images.githubusercontent.com/30482872/29053430-00e02654-7c2b-11e7-8e37-a1aa3bda5ff2.gif)
-[기사 원문 바로가기](http://www.etnews.com/20150721000197)
-[AWS Case Study 바로가기](https://aws.amazon.com/ko/solutions/case-studies/miraeasset/)
+[[기사 원문 바로가기](http://www.etnews.com/20150721000197) | 
+[AWS Case Study 바로가기](https://aws.amazon.com/ko/solutions/case-studies/miraeasset/)]
 
 ### Saltware Cloud Concierge
 > Luke - Chief Cloud Concierge
