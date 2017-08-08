@@ -17,7 +17,7 @@ permalink: /about/
 
 
 
-### Team Members
+### Saltware Cloud Concierge
 #### Luke - Chief Cloud Concierge
 #### Bae Jungyeol - Cloud Concierge [Hardware,OS,CDN,VOD Streaming]
 #### Lee Gyuwon - Cloud Concierge [Network,VPN]
