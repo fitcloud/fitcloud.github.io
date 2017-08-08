@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ### Partnership
-![Uploading cms_fitcl_partnership_01.gif…]()
+![cms_fitcl_partnership_01](https://user-images.githubusercontent.com/30482872/29053412-f0a528ca-7c2a-11e7-93d1-94664b2058fb.gif)
 
 ![cms_fitcl_partnership_02](https://user-images.githubusercontent.com/30482872/29053426-faf3546e-7c2a-11e7-8439-834168896ca1.gif)
 <source : http://www.aws-partner-directory.com/PartnerDirectory/PartnerDetail?Name=Saltware>
