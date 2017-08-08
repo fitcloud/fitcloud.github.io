@@ -16,7 +16,7 @@ permalink: /about/
 [[기사 원문 바로가기](http://www.etnews.com/20150721000197) | 
 [AWS Case Study 바로가기](https://aws.amazon.com/ko/solutions/case-studies/miraeasset/)]
 
-### Saltware Cloud Concierge
+### Tech Writers
 >- Luke - Chief Cloud Concierge
 >- Bae Jungyeol - Cloud Concierge [Hardware,OS,CDN,VOD Streaming]
 >- Lee Gyuwon - Cloud Concierge [Network,VPN]
