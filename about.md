@@ -10,12 +10,11 @@ permalink: /about/
 ![aws_saltware](https://user-images.githubusercontent.com/29446742/29101274-1395a942-7cec-11e7-814d-edaf82bbb9b6.png)
 [[AWS Partner 정보](https://aws.amazon.com/ko/partners/find/partnerdetails/?n=Saltware&id=001E000000xHZ4MIAW#psf-solutions)]
 
-### Customer References
+### Public References
 ![cms_fitcl_partnership_03](https://user-images.githubusercontent.com/30482872/29053430-00e02654-7c2b-11e7-8e37-a1aa3bda5ff2.gif)
 [[기사 원문 바로가기](http://www.etnews.com/20150721000197)]
 
 #### 미래에셋자산운용 ( Mirae Asset Global Investment )
-
 ![miraeasset](https://user-images.githubusercontent.com/29446742/29102407-d998ce7e-7cf3-11e7-9751-2601b4bcbcab.jpg)
 [미래에셋 Case Study 상세보기](https://aws.amazon.com/ko/solutions/case-studies/miraeasset/)
 
