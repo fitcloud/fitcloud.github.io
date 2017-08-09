@@ -17,7 +17,12 @@ permalink: /about/
 ### Customer References
 ![cms_fitcl_partnership_03](https://user-images.githubusercontent.com/30482872/29053430-00e02654-7c2b-11e7-8e37-a1aa3bda5ff2.gif)
 [[기사 원문 바로가기](http://www.etnews.com/20150721000197) | 
+
+![miraeasset](https://user-images.githubusercontent.com/29446742/29102407-d998ce7e-7cf3-11e7-9751-2601b4bcbcab.jpg)
 [AWS Case Study 바로가기](https://aws.amazon.com/ko/solutions/case-studies/miraeasset/)]
+
+![multiasset](https://user-images.githubusercontent.com/29446742/29102408-dbeb59ee-7cf3-11e7-909c-816f8fc11445.jpg)
+
 
 ### Tech Writers
 >- Luke - Chief Cloud Concierge
