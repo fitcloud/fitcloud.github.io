@@ -44,5 +44,6 @@ permalink: /about/
 
 ***
 
->![http://www.saltware.co.kr](http://www.saltware.co.kr)
->![https://www.encloud365.com](https://www.encloud365.com)
+![http://www.saltware.co.kr](http://www.saltware.co.kr)
+
+![https://www.encloud365.com](https://www.encloud365.com)
