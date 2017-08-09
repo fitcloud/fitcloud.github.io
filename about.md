@@ -21,6 +21,7 @@ permalink: /about/
 [미래에셋 Case Study 상세보기](https://aws.amazon.com/ko/solutions/case-studies/miraeasset/)
 
 #### 멀티에셋자산운용 ( Multi Asset Global Investment )
+>멀티에셋자산운용은 미래에셋의 자회사로 계열사의 성공적인 클라우드 적용 사례를 벤치마킹하여 유사한 워크로드를 클라우드 환경으로 빠르게 전환 할 수 있었습니다. 상대적으로 적은 IT인력을 보유한 금융사로서 클라우드로의 전환은 관리포인트와 운용비용을 크게 줄여주는 가장 최선의 선택이었습니다.
 
 ![multiasset](https://user-images.githubusercontent.com/29446742/29102408-dbeb59ee-7cf3-11e7-909c-816f8fc11445.jpg)
 
