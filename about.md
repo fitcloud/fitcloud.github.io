@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Saltware Cloud Concierge
+title: Cloud Concierge by Saltware
 permalink: /about/
 ---
 ***
