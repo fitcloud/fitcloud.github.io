@@ -30,12 +30,15 @@ permalink: /about/
 
 ***
 
-### Tech Writers
+### Technical Specialist
 >- Luke - Chief Cloud Concierge
->- Bae Jungyeol - Cloud Concierge [Hardware,OS,CDN,VOD Streaming]
->- Lee Gyuwon - Cloud Concierge [Network,VPN]
->- Ben - Cloud Concierge [WEB,WAS,DB,BigData]
->- Hong Seongtaek - Cloud Concierge [CDN,A.I,BigData]
+>- Jongbaek Seo - Cloud Concierge [Finance and Security Specialist]
+>- Jungki Gong - Cloud Concierge [CDN Specialist]
+>- Wonguen Cho - Cloud Concierge [Hypervisor and Security Specialist]
+>- Jungyeol Bae - Cloud Concierge [Operation Specialist]
+>- Gyuwon Lee - Cloud Concierge [Network Specialist]
+>- Ben - Cloud Concierge [Middleware, Bigdata and IOT Specialist]
+>- Seongtaek Hong - Cloud Concierge [CDN, BigData and ML Specialist]
 
 ***
 
