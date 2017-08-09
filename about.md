@@ -19,7 +19,7 @@ permalink: /about/
 [[기사 원문 바로가기](http://www.etnews.com/20150721000197) | 
 
 ![miraeasset](https://user-images.githubusercontent.com/29446742/29102407-d998ce7e-7cf3-11e7-9751-2601b4bcbcab.jpg)
-[AWS Case Study 바로가기](https://aws.amazon.com/ko/solutions/case-studies/miraeasset/)]
+[[미래에셋 Case Study 상세보기](https://aws.amazon.com/ko/solutions/case-studies/miraeasset/)]
 
 ![multiasset](https://user-images.githubusercontent.com/29446742/29102408-dbeb59ee-7cf3-11e7-909c-816f8fc11445.jpg)
 
