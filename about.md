@@ -37,12 +37,11 @@ permalink: /about/
 >- Ben - Cloud Concierge [WEB,WAS,DB,BigData]
 >- Hong Seongtaek - Cloud Concierge [CDN,A.I,BigData]
 
+***
 
 ### Contact Us
 
 [aws.support@saltware.co.kr](mailto:aws.support@saltware.co.kr)
-
-***
 
 ![http://www.saltware.co.kr](http://www.saltware.co.kr)
 
