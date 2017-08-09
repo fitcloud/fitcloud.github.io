@@ -3,6 +3,7 @@ layout: page
 title: Saltware Cloud Concierge
 permalink: /about/
 ---
+***
 
 ### AWS Advanced Consulting Partner
 ![cms_fitcl_partnership_01](https://user-images.githubusercontent.com/30482872/29053412-f0a528ca-7c2a-11e7-93d1-94664b2058fb.gif)
@@ -27,6 +28,7 @@ permalink: /about/
 
 ![multiasset](https://user-images.githubusercontent.com/29446742/29102408-dbeb59ee-7cf3-11e7-909c-816f8fc11445.jpg)
 
+***
 
 ### Tech Writers
 >- Luke - Chief Cloud Concierge
