@@ -99,7 +99,8 @@ title : AWS CloudWatch 제대로 사용하기
  #### 정상적인 화면
   ![access](https://user-images.githubusercontent.com/30482872/29114371-078ba910-7d2f-11e7-91e4-e576538f2bef.JPG)
 
- 
+ #### 출처
+ http://docs.aws.amazon.com/ko_kr/AmazonCloudWatch/latest/logs/QuickStartEC2Instance.html
 
 ### 3.알람 기능을 통한 Slack 알림 (writing...)
  #### CloudWatch Alarm & SNS & Lambda 서비스를 조합하여 Slack을 통해서 알람을 받을 수 있다.
