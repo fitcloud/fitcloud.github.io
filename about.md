@@ -12,7 +12,7 @@ permalink: /about/
 [[AWS 파트너 정보 바로가기](http://www.aws-partner-directory.com/PartnerDirectory/PartnerDetail?Name=Saltware/)]
 
 ![aws_saltware](https://user-images.githubusercontent.com/29446742/29101274-1395a942-7cec-11e7-814d-edaf82bbb9b6.png)
-[[AWS 솔루션 제공 바로가기](https://aws.amazon.com/ko/partners/find/partnerdetails/?n=Saltware&id=001E000000xHZ4MIAW#psf-solutions)]
+[[제공 솔루션 소개](https://aws.amazon.com/ko/partners/find/partnerdetails/?n=Saltware&id=001E000000xHZ4MIAW#psf-solutions)]
 
 ### Customer References
 ![cms_fitcl_partnership_03](https://user-images.githubusercontent.com/30482872/29053430-00e02654-7c2b-11e7-8e37-a1aa3bda5ff2.gif)
