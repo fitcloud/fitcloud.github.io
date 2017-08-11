@@ -15,3 +15,11 @@ date: 2017-07-20
 성공사례분석을 통해 유사한 워크로드를 AWS클라우드 환경으로 빠르게 전환 할 수 있었습니다. 
 상대적으로 적은 IT인력을 보유한 금융사이지만 솔트웨어의 MSP(Managed Service Program)서비스를 통해 관리포인트와 운용비용을 크게 줄여주는 가장 최선의 선택이었습니다.
 
+***
+#### 사용중인 AWS Product
+- Amazon EC2
+- Amazon RDS
+- Amazon S3
+- Amazon Glacier
+- Amazon CloudWatch
+***
