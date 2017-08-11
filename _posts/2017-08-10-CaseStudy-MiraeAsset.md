@@ -15,7 +15,25 @@ date: 2017-07-20
 
 [[미래에셋 Case Study 상세보기](https://aws.amazon.com/ko/solutions/case-studies/miraeasset/)]
 
+
 ***
+#### 사용중인 AWS Product
+- Amazon Route53
+- Amazon EC2
+- Amazon EalsticCache
+- Amazon RDS
+- Amazon S3
+- Amazon Glacier
+- Amazon CloudWatch
+- Amazon DynamoDB
+- Amazon SNS
+- Amazon SQS
+- Amazon WorkSpaces
+- Amazon WorkDocs
+- AWS WAF
+- AWS IoT
+***
+
 
 #### Press Release : 2015-07-21
 ![cms_fitcl_partnership_03](https://user-images.githubusercontent.com/30482872/29053430-00e02654-7c2b-11e7-8e37-a1aa3bda5ff2.gif)
