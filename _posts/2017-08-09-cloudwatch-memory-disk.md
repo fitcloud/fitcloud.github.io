@@ -4,6 +4,7 @@ title : AWS CloudWatch 제대로 사용하기
 ---
 
 ### 1.Memory, Disk 메트릭 추가 (Amazon Linux 기준)
+
 #### Amazon Linux 
  ~~~
  export CWHOME="/app/cloudwatch"
