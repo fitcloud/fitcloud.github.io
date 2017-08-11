@@ -10,6 +10,6 @@ date: 2017-07-20
 
 ![miraeasset](https://user-images.githubusercontent.com/29446742/29102407-d998ce7e-7cf3-11e7-9751-2601b4bcbcab.jpg)
 
-### Press Release
+#### Press Release : 2015-07-21
 ![cms_fitcl_partnership_03](https://user-images.githubusercontent.com/30482872/29053430-00e02654-7c2b-11e7-8e37-a1aa3bda5ff2.gif)
 [[기사 원문 바로가기](http://www.etnews.com/20150721000197)]
