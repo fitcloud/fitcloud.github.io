@@ -19,7 +19,7 @@ permalink: /about/
 >- Jungyeol Bae - Cloud Concierge [Operation Specialist]
 >- Gyuwon Lee - Cloud Concierge [Network Specialist]
 >- Ben - Cloud Concierge [Middleware, Bigdata and IOT Specialist]
->- Seongtaek Hong - Cloud Concierge [CDN, BigData and ML Specialist]
+>- SungTaek Hong - Cloud Concierge [CDN, BigData and ML Specialist]
 
 ***
 
