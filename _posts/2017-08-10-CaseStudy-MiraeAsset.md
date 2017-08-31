@@ -1,12 +1,12 @@
 ---
 layout: post
-title: CaseStudy-미래에셋자산운용
+title: Saltware AWS CaseStudy-미래에셋자산운용
 date: 2017-07-20
 ---
 
 ![miraeasset](https://user-images.githubusercontent.com/29446742/29102407-d998ce7e-7cf3-11e7-9751-2601b4bcbcab.jpg)
 
-#### 미래에셋자산운용 ( Mirae Asset Global Investment ) 
+#### Customer : 미래에셋자산운용 ( Mirae Asset Global Investment ) 
 
 >한국 최초의 금융권 AWS 마이그레이션 사례 
 
@@ -17,9 +17,13 @@ date: 2017-07-20
 
 [[미래에셋 Case Study 상세보기](https://aws.amazon.com/ko/solutions/case-studies/miraeasset/)]
 
+#### Challenge
+
+
+#### Solution
 
 ***
-#### 사용중인 AWS Product
+#### AWS Product
 - Amazon Route53
 - Amazon EC2
 - Amazon EalsticCache
