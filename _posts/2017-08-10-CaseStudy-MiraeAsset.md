@@ -4,7 +4,7 @@ title: Saltware AWS CaseStudy-미래에셋자산운용
 date: 2017-07-20
 ---
 
-![miraeasset](https://user-images.githubusercontent.com/29446742/29102407-d998ce7e-7cf3-11e7-9751-2601b4bcbcab.jpg)
+[![miraeasset](https://user-images.githubusercontent.com/29446742/29102407-d998ce7e-7cf3-11e7-9751-2601b4bcbcab.jpg)(http://miraeasset.com)]
 
 #### Customer : 미래에셋자산운용 ( Mirae Asset Global Investment ) 
 
