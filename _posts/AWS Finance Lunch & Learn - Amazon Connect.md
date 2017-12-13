@@ -14,4 +14,4 @@ Amazon Connect는 AWS가 제공하는 셀프서비스 방식의 클라우드 기
 본 세션은 AWS 김선수 이사의 Amazon Connect 소개와 AWS 금융 전문 파트너사인 솔트웨어의 함인용 실장의 실제 데모 시연(콜센터를 설립하는 과정 등) 순으로 진행 됩니다.
 
 [![콜센터 서비스 Amazon Connect 소개 및 데모시연 - 김선수 이사(AWS), 함인용 실장(솔트웨어)
-](http://img.youtube.com/vi/wnmXSqHlgyM/0.jpg)](https://www.youtube.com/watch?v=https://youtu.be/wnmXSqHlgyM)
+](http://img.youtube.com/vi/wnmXSqHlgyM/0.jpg)](https://www.youtube.com/watch?v=wnmXSqHlgyM)
