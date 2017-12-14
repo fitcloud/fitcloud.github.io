@@ -1,9 +1,10 @@
 ---
 layout: post
-title: 콜센터 서비스 Amazon Connect 소개 및 데모시연 - 김선수 이사(AWS), 함인용 실장(솔트웨어)
+title: Amazon Connect 소개
 ---
 
 ## 솔트웨어와 함께하는 ‘AWS Finance Lunch & Learn’
+### 콜센터 서비스 Amazon Connect 소개 및 데모시연 - 김선수 이사(AWS), 함인용 실장(솔트웨어)
 
 AWS는 현재 약 100여가지의 서비스를 제공하고 있으며, 이번 세미나에서는 금융사 고객의 관심도가 높은 두 가지 서비스인 Amazon CloudFront와 Amazon Connect를 소개 합니다.
 
