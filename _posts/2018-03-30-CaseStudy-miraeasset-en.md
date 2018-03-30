@@ -8,6 +8,7 @@ date: 2017-07-20
 
 #### Customer : Mirae Asset Global Investment
 
+
 ### Customer needs
 1. Consideration for a global cloud service due to the dependency on global website for marketing purpose.
 2. Need for improving access speed for foreign users.
