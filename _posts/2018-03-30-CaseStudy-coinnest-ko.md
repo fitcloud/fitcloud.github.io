@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Saltware AWS CaseStudy-코인네스트
+title: AWS CaseStudy-코인네스트
 date: 2018-03-30
 ---
 
