@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Saltware AWS CaseStudy-미래에셋자산운용
+title: AWS CaseStudy-미래에셋자산운용
 date: 2017-07-20
 ---
 
