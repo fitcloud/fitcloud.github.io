@@ -4,7 +4,7 @@ title: FitCloud Service : ProActive - Cost
 date: 2018-08-27
 ---
 
-### Saltware ProActive (사전대응활동) 서비스 소개
+### Saltware ProActive (사전대응활동) 서비스
 
 ### 클라우드의 예기치 못한 비용 폭탄
 클라우드 서비스는 사용자가 쉽고 빠르게 원하는 서비스를 시작할 수 있는 유연성 측면에서 큰 가치를 가지고 있습니다.
@@ -28,4 +28,5 @@ date: 2018-08-27
 향후에는 AWS에서 비용 데이터가 발생 되는 시점( 일 2~3회 )마다 확인 할 수 있도록 계획 중에 있습니다.
 
 솔트웨어의 ProActive - Cost 활동에 대하여 궁금하신 점이나 의견이 있으시다면 언제든지 솔트웨어 FitCloud ( aws.support@saltware.co.kr ) 로 문의 주시기 바랍니다.
+
 고객 여러분의 의견은 저희에게 소중한 자산입니다.
