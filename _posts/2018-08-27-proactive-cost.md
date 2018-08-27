@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FitCloud Service : ProActive - Cost
+title: FitCloud Service - ProActive - Cost
 date: 2018-08-27
 ---
 
