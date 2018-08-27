@@ -1,11 +1,11 @@
 ---
 layout: post
-title: ProActive - Cost
+title: 사전대응활동 ProActive - Cost
 date: 2018-08-27
 ---
 
-#### Saltware ProActive (사전대응활동) 서비스
-====
+#### Saltware ProActive (사전대응활동) - Cost 서비스
+=============
 
 ### 클라우드의 예기치 못한 비용 폭탄
 클라우드 서비스는 사용자가 쉽고 빠르게 원하는 서비스를 시작할 수 있는 유연성 측면에서 큰 가치를 가지고 있습니다.
