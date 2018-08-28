@@ -28,7 +28,7 @@ date: 2018-08-27
 
 고객사의 일 사용 비용이 갑자기 증가하는 경우 해당 내용이 자동으로 집계되어 솔트웨어의 Cloud Concierge 에게 전달 됩니다. Cloud Concierge 는 매일 해당 내용을 확인 하고 사전에 인지된 이벤트가 아닌 경우 비용 증가 현황을 고객에게 통보하게 됩니다. ( FitCloud Carepack 가입 고객에 한함)
 
-솔트웨어의 ProActive - Cost 활동에 대하여 궁금하신 점이나 의견이 있으시다면 언제든지 솔트웨어 FitCloud ( aws.support@saltware.co.kr ) 로 문의 주시기 바랍니다.
+솔트웨어의 ProActive - Cost 활동에 대하여 궁금하신 점이나 의견이 있으시다면 언제든지 솔트웨어 Cloud Conciege 에게 문의 주시기 바랍니다.
 
 고객 여러분의 의견은 저희에게 소중한 자산입니다.
 
