@@ -8,6 +8,8 @@ date: 2017-07-20
 
 #### Customer : 미래에셋자산운용 ( Mirae Asset Global Investment ) 
 
+AWS 고객사례 : https://aws.amazon.com/ko/solutions/case-studies/miraeasset/
+
 ### 고객 요구사항
 1. 마케팅을 위해 글로벌 웹사이트에 의존하고 있어 글로벌 클라우드 서비스 고려
 2. 해외 접속자들의 속도 개선 필요
