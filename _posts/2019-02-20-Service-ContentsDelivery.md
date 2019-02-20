@@ -26,9 +26,8 @@ Amaon CloudFront를 사용한다면 빠르고 안전한 콘텐츠 전송 뿐만 
 
 ![image](https://user-images.githubusercontent.com/29446742/53070197-ad591480-3521-11e9-9839-371472f4965e.png)
 
- 
 > Super POP Architecture : AWS 클라우드 구축 / 운영 Know-How가 담긴 고성능/대용량 아키텍처
->  - 한국내 최대 Capacity / 가장 빠르게 성장하는 글로벌 CDN 서비스
+> 한국내 최대 Capacity / 가장 빠르게 성장하는 글로벌 CDN 서비스
 > Single-Service : (캐싱, 다이나믹 가속, HTTPS, AWS Shield Standard 등) 동일 가격 체계로 제공
 > AWS Backbone 전용망 : Edge <-> Origin 가속 서비스로 활용
 > 인라인 DDoS 방어 : CloudFront이용만으로 Shield Standard 무료 적용으로 Layer3&4 DDoS 방어
