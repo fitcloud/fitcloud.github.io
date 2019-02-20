@@ -12,7 +12,7 @@ CDN 이라고 불리우는 콘텐트 전송 네트워크 ( Contents Delivery Net
 
 ### Amazon CloudFront - 빠르고 안전한 AWS의 CDN 서비스
 Amazon CloudFront는 전세계의 AWS 백본망과 전용 고속 엣지 로케이션을 통하여 콘텐츠를 빠르고 안전하게 전송하는 CDN 서비스입니다.
-!(https://d1.awsstatic.com/global-infrastructure/maps/CloudFront%20Network%20Map%2010.12.18.59e838df2f373247d2efaeb548076e084fd8993e.png)
+![AmazonCF](https://d1.awsstatic.com/global-infrastructure/maps/CloudFront%20Network%20Map%2010.12.18.59e838df2f373247d2efaeb548076e084fd8993e.png)
 
 - 빠른 속도와 글로벌한 규모
 - 엣지보안
