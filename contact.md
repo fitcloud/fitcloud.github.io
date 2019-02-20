@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cloud Concierge by Saltware
-permalink: /about/
+permalink: /contact/
 ---
 ***
 
