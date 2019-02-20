@@ -49,7 +49,7 @@ AWS의 대표적인 서비스인 Amazon EC2 와 Amazon S3 를 Amazon CloudFront 
 또한 Amazon CloudFront 의 경우 DDoS 를 방어하기 위한 Amazon Standard Shield 서비스가 기본으로 활성화 되어 있어 빠르고 안전한 전송을 함께 서비스 받게 됩니다.
 
 ## Saltware의 FitCloud Contents Delivery 서비스
->솔트웨어에는 AWS의 인증된 Amazon CloudFront Service 파트너사입니다.  
+>솔트웨어는 AWS의 인증된 Amazon CloudFront Service 파트너사입니다.  
 ( https://aws.amazon.com/ko/partners/find/partnerdetails/?n=Saltware&id=001E000000xHZ4MIAW )
 
 솔트웨어를 통하여 Amazon CloufFront 를 사용하시면 다음과 같은 잇점이 있습니다.
