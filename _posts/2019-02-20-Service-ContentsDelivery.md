@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Saltware Contents Delivery Service - Amazon CF
+description: Amazon CloudFront는 개발자 친화적 환경에서 짧은 지연 시간과 빠른 전송 속도로 데이터, 동영상, 애플리케이션 및 API를 전 세계 고객에게 안전하게 전송하는 고속 콘텐츠 전송 네트워크(CDN) 서비스입니다.
 keywords: CDN 서비스,CDN,클라우드프론트
 date: 2019-02-20
 ---
