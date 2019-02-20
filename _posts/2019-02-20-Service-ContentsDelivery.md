@@ -15,7 +15,9 @@ CDN 이라고 불리우는 콘텐트 전송 네트워크 ( Contents Delivery Net
 ### Amazon CloudFront - 빠르고 안전한 AWS의 CDN 서비스
 
 > Layer 3,4 DDoS 에 대한 무료 방어 서비스
+>
 > HTTP, HTTPS 구분 없이 동일 가격
+>
 > AWS 오리진 데이터 전송 비용 무료
 
 Amazon CloudFront는 전세계의 AWS 백본망과 전용 고속 엣지 로케이션을 통하여 콘텐츠를 빠르고 안전하게 전송하는 CDN 서비스입니다.
