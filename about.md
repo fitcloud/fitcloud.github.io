@@ -14,9 +14,13 @@ permalink: /about/
 ### Technical Specialist
 >- Luke - Chief Cloud Concierge
 >- Jongbaek Seo - Cloud Concierge [Finance and Security Specialist]
->- Jungki Gong - Cloud Concierge [CDN Specialist]
->- Wonguen Cho - Cloud Concierge [Hypervisor and Security Specialist]
->- SungTaek Hong - Cloud Concierge [CDN, BigData and ML Specialist]
+>- Jungki Gong - Cloud Concierge [BigData Specialist]
+>- Daesub Lee - Cloud Concierge [Financal industry Specialist]
+>- Wonguen Cho - Cloud Concierge [Network and Security Specialist]
+>- Howon Yun - Cloud Concierge [DevOps and Security Specialist]
+>- SungTaek Hong - Cloud Concierge [DevOps and ML Specialist]
+>- Dohoon Lee - Cloud Concierge [Cloud Database Specialist]
+>- Minseok Song - Cloud Concierge [BigData Specialist]
 
 ***
 
