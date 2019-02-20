@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Contents Delivery Service - Amazon CloudFront
+title: Saltware Contents Delivery Service - Amazon CF
 date: 2019-02-20
 ---
 
