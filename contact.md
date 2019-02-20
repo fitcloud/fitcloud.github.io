@@ -29,7 +29,7 @@ permalink: /contact/
 
 > TEL : +82-2-2025-4927
 
-[aws.support@saltware.co.kr](mailto:aws.support@saltware.co.kr)
+[aws.sales@saltware.co.kr](mailto:aws.sales@saltware.co.kr)
 
 [http://www.saltware.co.kr](http://www.saltware.co.kr)
 
