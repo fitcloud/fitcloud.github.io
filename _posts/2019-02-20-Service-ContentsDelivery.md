@@ -42,7 +42,7 @@ Amazon CloudFront를 사용한다면 빠르고 안전한 콘텐츠 전송 뿐만
 
 
 ### AWS의 EC2와 S3 사용시 오리진 전송비용 무료
-![cf-cost](https://user-images.githubusercontent.com/29446742/53075819-70951980-3531-11e9-8ff1-324ecd5890b2.png)
+![cf-cost](https://user-images.githubusercontent.com/29446742/53079890-c4583080-353a-11e9-9758-a3a95b5dcfeb.png)
 
 1. CloudFront를 사용하실 경우 Default로 AWS 오리진(EC2, ELB, S3) Data-Out 비용이 면제 됩니다.
 2. CloudFront는 캐싱은 물론 미디어 전송, API와 같은 동적 콘텐츠 가속, HTTPS 등을 동일 가격 체계로 제공하여 기존 CDN 대비 월등히 가성비 높은 서비스를 제공합니다.
