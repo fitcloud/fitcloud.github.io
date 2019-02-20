@@ -16,9 +16,6 @@ permalink: /about/
 >- Jongbaek Seo - Cloud Concierge [Finance and Security Specialist]
 >- Jungki Gong - Cloud Concierge [CDN Specialist]
 >- Wonguen Cho - Cloud Concierge [Hypervisor and Security Specialist]
->- Jungyeol Bae - Cloud Concierge [Operation Specialist]
->- Gyuwon Lee - Cloud Concierge [Network Specialist]
->- Ben - Cloud Concierge [Middleware, Bigdata and IOT Specialist]
 >- SungTaek Hong - Cloud Concierge [CDN, BigData and ML Specialist]
 
 ***
@@ -29,5 +26,5 @@ permalink: /about/
 
 [http://www.saltware.co.kr](http://www.saltware.co.kr)
 
-[https://www.encloud365.com](https://www.encloud365.com)
+[https://www.fitcloud.co.kr](https://www.fitcloud.co.kr)
 
