@@ -50,8 +50,8 @@ AWS의 대표적인 서비스인 Amazon EC2 와 Amazon S3 를 Amazon CloudFront 
 >솔트웨어에는 AWS의 인증된 Amazon CloudFront Service 파트너사입니다.  
 ( https://aws.amazon.com/ko/partners/find/partnerdetails/?n=Saltware&id=001E000000xHZ4MIAW )
 
-솔트웨어를 통하여 Amazon CloufFront 에 대한 사용을 원하시면 다음과 같은 잇점이 있습니다.
-- 대량의 콘텐츠 전송에 대한 약정 할인
+솔트웨어를 통하여 Amazon CloufFront 를 사용하시면 다음과 같은 잇점이 있습니다.
+- 대량의 콘텐츠 전송에 대한 할인 ( 전송량 약정시 )
 - 데이터 전송비용 절감을 위한 아키텍처 진단
 - 콘텐츠 전송 서비스에 대한 전문적인 기술지원
 - DDoS , 네트워크 침해 방지를 위한 각종 보안 구성 및 솔루션 제언
