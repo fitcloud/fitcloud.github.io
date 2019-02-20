@@ -10,7 +10,7 @@ Amazon CloufFront 를 통한 콘텐츠 전송 서비스 소개
 ### 콘텐츠 전송 네트워크 서비스 ( CDN )
 CDN 이라고 불리우는 콘텐트 전송 네트워크 ( Contents Delivery Network )는 서비스 하고자 하는 콘텐츠를 빠르게 전송하기 위하여 사용자와 가까운 지역에 콘텐츠를 캐싱하여 서비스 하도록 하여 주어 서버의 트래픽 부하를 줄여 주고, 엔드유저의 웹 경험을 빠르게 제공하여 주는 서비스 입니다.
 
-#### Amazon CloudFront - 빠르고 안전한 AWS의 CDN 서비스
+### Amazon CloudFront - 빠르고 안전한 AWS의 CDN 서비스
 Amazon CloudFront는 전세계의 AWS 백본망과 전용 고속 엣지 로케이션을 통하여 콘텐츠를 빠르고 안전하게 전송하는 CDN 서비스입니다.
 
 - 빠른 속도와 글로벌한 규모
@@ -19,6 +19,18 @@ Amazon CloudFront는 전세계의 AWS 백본망과 전용 고속 엣지 로케�
 - AWS와 긴밀한 통합
 
 일반적인 CDN 이 정적인 콘텐츠를 캐싱하여 전송하는 서비스임에 반하여 AWS CloudFront는 동적 콘텐츠에 대한 글로벌 가속 서비스, DDoS 에 대한 완화서비스를 별도의 추가 비용 없이 함께 제공합니다. 또한 Lamda@edge 와 같은 프로그래밍을 CDN에 적용하여 요청헤더에 보안 적용을 추가로 구성할 수 있으며, 특정 지역에 대한 트래픽 허용 및 차단기능을 콘솔을 통해 쉽게 구성할 수 도 있습니다.
+
+### Amazon CloudFront 의 장점
+Amaon CloudFront를 사용한다면 빠르고 안전한 콘텐츠 전송 뿐만 아니라, 높아지는 클라우드상의 데이터 전송 비용도 절감 할 수 있습니다.
+
+1. CloudFront를 사용하실 경우 Default로 AWS 오리진(EC2, ELB, S3) Data-Out 비용이 면제 됩니다.
+2. CloudFront는 캐싱은 물론 미디어 전송, API와 같은 동적 콘텐츠 가속, HTTPS 등을 동일 가격 체계로 제공하여 기존 CDN 대비 월등히 가성비 높은 서비스를 제공합니다.
+3. AWS Shield와 AWS WAF를 통한 서비스 연계로, DDoS 공격 및 웹해킹 위협으로부터 안전한 서비스 운영이 가능합니다.
+4. 100Gbps 다중회선의 AWS 오리진 to 에지 전용 백본망을 이용하여 첫번째 다운로드 및 캐싱이 되지 않는 동적 콘텐츠에 대해 높은 성능 및 안정성을 제공합니다.
+5. EC2, S3, ELB는 물론 Route53, ACM, CloudWatch 등과 같이 AWS의 다양한 서비스들과 연동 및 통합 관리됩니다.
+
+### Amazon CloudFront 비용 아키텍처
+
 
 
 ### FitCloud Contents Delivery 서비스
@@ -31,7 +43,7 @@ Amazon CloudFront는 전세계의 AWS 백본망과 전용 고속 엣지 로케�
 - 콘텐츠 전송 서비스에 대한 전문적인 기술지원
 - DDoS , 네트워크 침해 방지를 위한 각종 보안 구성 및 솔루션 제언
 
-솔트웨어의 Amazon CloudFront 서브스에 대하여 궁금하신 점이나 의견이 있으시다면 언제든지 솔트웨어 Cloud Conciege 에게 문의 주시기 바랍니다.
+솔트웨어의 Amazon CloudFront 서비스에 대하여 궁금하신 점이나 의견이 있으시다면 언제든지 솔트웨어 Cloud Conciege 에게 문의 주시기 바랍니다.
 
 고객 여러분의 의견은 저희에게 소중한 자산입니다.
 
