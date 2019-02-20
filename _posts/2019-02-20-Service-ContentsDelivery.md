@@ -68,4 +68,6 @@ AWS의 대표적인 서비스인 Amazon EC2 와 Amazon S3 를 Amazon CloudFront 
 고객 여러분의 의견은 저희에게 소중한 자산입니다.
 
 #### AWS CloudFront 서비스 관련 문의 : 
-> 정태경 팀장 / aws.sales@saltware.co.kr / 02-2025-4933
+~~~
+정태경 팀장 / aws.sales@saltware.co.kr / 02-2025-4933
+~~~
