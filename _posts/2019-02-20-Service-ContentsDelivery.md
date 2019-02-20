@@ -26,13 +26,26 @@ Amaon CloudFront를 사용한다면 빠르고 안전한 콘텐츠 전송 뿐만 
 
 ![image](https://user-images.githubusercontent.com/29446742/53070197-ad591480-3521-11e9-9839-371472f4965e.png)
 
+~~~ 
+Super POP Architecture : AWS 클라우드 구축 / 운영 Know-How가 담긴 고성능/대용량 아키텍처
+       -  한국내 최대 Capacity / 가장 빠르게 성장하는 글로벌 CDN 서비스
+
+Single-Service : (캐싱, 다이나믹 가속, HTTPS, AWS Shield Standard 등) 동일 가격 체계로 제공
+
+AWS Backbone 전용망 : Edge  Origin 가속 서비스로 활용
+
+인라인 DDoS 방어 : CloudFront이용만으로 Shield Standard 무료 적용으로 Layer3&4 DDoS 방어
+
+최상의 Routing : 지연시간 기준으로 최상의 라우팅 룰 적용.
+~~~
+
 1. CloudFront를 사용하실 경우 Default로 AWS 오리진(EC2, ELB, S3) Data-Out 비용이 면제 됩니다.
 2. CloudFront는 캐싱은 물론 미디어 전송, API와 같은 동적 콘텐츠 가속, HTTPS 등을 동일 가격 체계로 제공하여 기존 CDN 대비 월등히 가성비 높은 서비스를 제공합니다.
 3. AWS Shield와 AWS WAF를 통한 서비스 연계로, DDoS 공격 및 웹해킹 위협으로부터 안전한 서비스 운영이 가능합니다.
 4. 100Gbps 다중회선의 AWS 오리진 to 에지 전용 백본망을 이용하여 첫번째 다운로드 및 캐싱이 되지 않는 동적 콘텐츠에 대해 높은 성능 및 안정성을 제공합니다.
 5. EC2, S3, ELB는 물론 Route53, ACM, CloudWatch 등과 같이 AWS의 다양한 서비스들과 연동 및 통합 관리됩니다.
 
-### Amazon CloudFront 비용 아키텍처
+### AWS의 EC2와 S3 사용시 오리진 전송비용 무료
 ![cf-cost](https://user-images.githubusercontent.com/29446742/53069863-beedec80-3520-11e9-8bb7-75722f85946a.png)
 AWS의 대표적인 서비스인 Amazon EC2 와 Amazon S3 를 Amazon CloudFront 의 Origin 으로 활용하는 경우에는 전송비용이 발생하지 않습니다. 
 또한 Amazon CloudFront 의 경우 DDoS 를 방어하기 위한 Amazon Standard Shield 서비스가 기본으로 활성화 되어 있어 빠르고 안전한 전송을 함께 서비스 받게 됩니다.
