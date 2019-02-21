@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Amazon CloudFront 를 이용한 콘텐츠 전송
+title: Amazon CloudFront 를 이용하여 안정적으로 콘텐츠 전송
 date: 2019-02-20
 ---
 
