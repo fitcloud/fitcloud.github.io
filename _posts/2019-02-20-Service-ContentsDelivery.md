@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Amazon CloudFront 를 통한 콘텐츠 전송 서비스 소개
+title: Amazon CloudFront 를 통한 콘텐츠 전송 (CDN)
 date: 2019-02-20
 ---
 
