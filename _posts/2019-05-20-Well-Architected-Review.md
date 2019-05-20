@@ -17,7 +17,9 @@ Well Architecture 프로그램은 아래 5개 Pillar를 중심으로 아키텍�
 
 
 ## Well-Architecture 5 pillar
-![image](https://fitcloud.github.io/images/WAR/WAR-0.jpg)
+<div style="text-align:center;">
+  <img src="https://fitcloud.github.io/images/WAR/WAR-0.jpg">
+</div>
 
 
 ### WAR Review 진행 절차
