@@ -31,35 +31,35 @@ Well Architecture 프로그램은 아래 5개 Pillar를 중심으로 아키텍�
 ### Well Architecture Tool 사용 방법
 
 - I open the AWS Well-Architected Tool Console and click Define workload to get started:
-![image](https://fitcloud.github.io/images/WAR/WAR-1.jpg)
+<img style="display:block; margin: 0px auto;" src="https://fitcloud.github.io/images/WAR/WAR-1.jpg">
 
 
 - begin by naming and defining my workload. I choose an industry type and an industry, list the regions where I operate, indicate if this is a pre-production or production workload, and optionally enter a list of AWS account IDs to define the span of the workload. Then I click Define workload to move ahead:
-![image](https://fitcloud.github.io/images/WAR/WAR-2.jpg)
+<img style="display:block; margin: 0px auto;" src="https://fitcloud.github.io/images/WAR/WAR-2.jpg">
 
 
 - I am ready to get started, so I click Start review:
-![image](https://fitcloud.github.io/images/WAR/WAR-3.jpg)
+<img style="display:block; margin: 0px auto;" src="https://fitcloud.github.io/images/WAR/WAR-3.jpg">
 
 
 - The first pillar is Operational Excellence. There are nine questions, each with multiple-choice answers. Helpful resources are displayed on the side:
-![image](https://fitcloud.github.io/images/WAR/WAR-4.jpg)
+<img style="display:block; margin: 0px auto;" src="https://fitcloud.github.io/images/WAR/WAR-4.jpg">
 
 
 - I can go through the pillars and questions in order, save and exit, and so forth. After I complete my review, I can consult the improvement plan for my workload:
-![image](https://fitcloud.github.io/images/WAR/WAR-5.jpg)
+<img style="display:block; margin: 0px auto;" src="https://fitcloud.github.io/images/WAR/WAR-5.jpg">
 
 
 - I can generate a detailed PDF report that summarizes my answers:
-![image](https://fitcloud.github.io/images/WAR/WAR-5.jpg)
+<img style="display:block; margin: 0px auto;" src="https://fitcloud.github.io/images/WAR/WAR-6.jpg">
 
 
 - I can review my list of workloads: <br/>
-![image](https://fitcloud.github.io/images/WAR/WAR-6.jpg)
+<img style="display:block; margin: 0px auto;" src="https://fitcloud.github.io/images/WAR/WAR-7.jpg">
 
 
 - And I can see the overall status in the dashboard:
-![image](https://fitcloud.github.io/images/WAR/WAR-7.jpg)
+<img style="display:block; margin: 0px auto;" src="https://fitcloud.github.io/images/WAR/WAR-8.jpg">
 
 
 Well Architecture Tool 사용법은 AWS Blog에서 발췌 하였으며, 참고 원문 URL은 아래와 같습니다.
