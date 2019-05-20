@@ -4,9 +4,6 @@ title: Saltware's Well Architected Review
 date: 2019-05-20
 ---
 
-## Well Architecture Tool 소개
-
-AWS Well-Architected Tool은 워크로드 상태를 검토하고 AWS 아키텍처 모범 사례와 비교하는 데 도움이 됩니다. 이 도구는 클라우드 아키텍트가 안전하고, 성능이 뛰어나며, 복원력을 갖춘, 효율적인 애플리케이션 아키텍처를 구축할 수 있도록 개발된 AWS Well-Architected Framework를 기반으로 합니다. AWS 솔루션 아키텍처 팀이 수십만 건의 워크로드 검토를 수행하는 데 사용해 온 이 프레임워크는 Customer 및 파트너가 아키텍처를 평가할 수 있는 일관된 접근 방식을 제공하며, 시간이 지나면서 애플리케이션 요구 사항에 따라 확장되는 디자인을 구현하는 데 도움이 되는 지침을 제공합니다.
 
 ![AWS Well-Architected Partner Program Certificate](https://user-images.githubusercontent.com/29446742/57998412-5b1d9480-7b0c-11e9-8423-336941c1346b.png)
 
@@ -29,6 +26,9 @@ Well Architecture 프로그램은 아래 5개 Pillar를 중심으로 아키텍�
 - 작성 된 Improvement Report를 가지고 Customer에게 프리젠테이션을 진행 하여 AS-IS의 문제점과 TO-BE로 개선 해야할 내용들을 설명드리고, Customer과 함께 개선 해야할 부분에 대한 우선 순위등에 대해 Plan을 설정 합니다
 - 개선에 대한 Plan 확립되면, 프리젠 테이션 이후 1개월 내로 개선 작업을 시작하며 Customer  개선에 필요한 부분에 대한 기술 지원도 함께 진행 됩니다.
 
+## Well Architecture Tool
+
+AWS Well-Architected Tool은 워크로드 상태를 검토하고 AWS 아키텍처 모범 사례와 비교하는 데 도움이 됩니다. 이 도구는 클라우드 아키텍트가 안전하고, 성능이 뛰어나며, 복원력을 갖춘, 효율적인 애플리케이션 아키텍처를 구축할 수 있도록 개발된 AWS Well-Architected Framework를 기반으로 합니다. AWS 솔루션 아키텍처 팀이 수십만 건의 워크로드 검토를 수행하는 데 사용해 온 이 프레임워크는 Customer 및 파트너가 아키텍처를 평가할 수 있는 일관된 접근 방식을 제공하며, 시간이 지나면서 애플리케이션 요구 사항에 따라 확장되는 디자인을 구현하는 데 도움이 되는 지침을 제공합니다.
 
 ## Well Architecture Tool 사용 방법
 
