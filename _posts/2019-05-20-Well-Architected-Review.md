@@ -5,15 +5,14 @@ date: 2019-05-20
 ---
 
 
-![AWS Well-Architected Partner Program Certificate](https://user-images.githubusercontent.com/29446742/57998412-5b1d9480-7b0c-11e9-8423-336941c1346b.png)
-
-
 ## Saltware Well Architectured Program
 
 AWS의 Solution Architector(이하 SA) 들이 워크로드 검토를 수행 하는 것을 이제는 Saltware의 전문 SA 들이 함께 수행을 합니다.
-저희 Saltware SA들이 Customer들의 AS-IS 시스템에 대한 Architecture 및 Workload를 분석하여 AWS Best Practice 및 common Guide를 전달하고 AWS를 보다더 잘 활용 할 수 있게 도움을 드리는 프로그램입니다.
-Well Architecture 프로그램은 아래 5개 Pillar를 중심으로 아키텍처를 검토 및 개선 하고 있습니다.
+저희 Saltware SA들이 Customer들의 AS-IS 시스템에 대한 Architecture 및 Workload를 분석하여 AWS Best Practice 및 common Guide를 전달하고 AWS를 보다더 잘 활용 할 수 있게 도움을 드리는 프로그램입니다. 솔트웨어는 AWS의 공인된 Well Architected Partner 입니다.
 
+![AWS Well-Architected Partner Program Certificate](https://user-images.githubusercontent.com/29446742/57998412-5b1d9480-7b0c-11e9-8423-336941c1346b.png)
+
+Well Architecture 프로그램은 아래 5개 Pillar를 중심으로 아키텍처를 검토 및 개선 합니다.
 
 ### Well-Architecture 5 pillar
 <img style="display:block; margin: 0px auto;" src="https://fitcloud.github.io/images/WAR/WAR-0.jpg">
