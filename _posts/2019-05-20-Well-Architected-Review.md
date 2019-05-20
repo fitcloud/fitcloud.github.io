@@ -5,22 +5,22 @@ date: 2019-05-20
 ---
 
 
-## Saltware Well Architectured Program
+## Saltware Well Architected Program
 
 AWS의 Solution Architector(이하 SA) 들이 워크로드 검토를 수행 하는 것을 이제는 Saltware의 전문 SA 들이 함께 수행을 합니다.
 저희 Saltware SA들이 Customer들의 AS-IS 시스템에 대한 Architecture 및 Workload를 분석하여 AWS Best Practice 및 common Guide를 전달하고 AWS를 보다더 잘 활용 할 수 있게 도움을 드리는 프로그램입니다. 솔트웨어는 AWS의 공인된 Well Architected Partner 입니다.
 
 ![AWS Well-Architected Partner Program Certificate](https://user-images.githubusercontent.com/29446742/57998412-5b1d9480-7b0c-11e9-8423-336941c1346b.png)
 
-Well Architecture 프로그램은 아래 5개 Pillar를 중심으로 아키텍처를 검토 및 개선 합니다.
+Well Architected 프로그램은 아래 5개 Pillar를 중심으로 아키텍처를 검토 및 개선 합니다.
 
-### Well-Architecture 5 pillar
+### Well-Architected 5 pillar
 <img style="display:block; margin: 0px auto;" src="https://fitcloud.github.io/images/WAR/WAR-0.jpg">
 
 
 ## WAR Review 진행 절차
 
-- Well Architecture Tool 의 5개 Pillar의 모든 항목들을 Customer 와 대화 형식으로 현재 AS-IS에 대한 상태를 약 2~4시간동안 리뷰를 진행 합니다.
+- Well Architected Tool 의 5개 Pillar의 모든 항목들을 Customer 와 대화 형식으로 현재 AS-IS에 대한 상태를 약 2~4시간동안 리뷰를 진행 합니다.
 - Customer과 Review 진행 후 나온 결과 Report를 가지고 Saltware SA가 개선점등을 찾고 가장 알맞은 아키텍처로 재설계 하여 Improvement Report를 작성합니다.
 - 작성 된 Improvement Report를 가지고 Customer에게 프리젠테이션을 진행 하여 AS-IS의 문제점과 TO-BE로 개선 해야할 내용들을 설명드리고, Customer과 함께 개선 해야할 부분에 대한 우선 순위등에 대해 Plan을 설정 합니다
 - 개선에 대한 Plan 확립되면, 프리젠 테이션 이후 1개월 내로 개선 작업을 시작하며 Customer  개선에 필요한 부분에 대한 기술 지원도 함께 진행 됩니다.
@@ -63,7 +63,7 @@ AWS Well-Architected Tool은 워크로드 상태를 검토하고 AWS 아키텍�
 <img style="display:block; margin: 0px auto;" src="https://fitcloud.github.io/images/WAR/WAR-8.jpg">
 
 
-Well Architecture Tool 사용법은 AWS Blog에서 발췌 하였으며, 참고 원문 URL은 아래와 같습니다.
+Well Architected Tool 사용법은 AWS Blog에서 발췌 하였으며, 참고 원문 URL은 아래와 같습니다.
 https://aws.amazon.com/ko/blogs/aws/new-aws-well-architected-tool-review-workloads-against-best-practices/
 
 솔트웨어의 Well Architected Review 프로그램에 대하여 궁금하신 점이나 의견이 있으시다면 언제든지 솔트웨어 Cloud Conciege 에게 문의 주시기 바랍니다.
