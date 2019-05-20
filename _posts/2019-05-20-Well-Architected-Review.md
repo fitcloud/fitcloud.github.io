@@ -54,7 +54,7 @@ Well Architecture 프로그램은 아래 5개 Pillar를 중심으로 아키텍�
 ![image](https://fitcloud.github.io/images/WAR/WAR-5.jpg)
 
 
-- I can review my list of workloads:
+- I can review my list of workloads: <br/>
 ![image](https://fitcloud.github.io/images/WAR/WAR-6.jpg)
 
 
