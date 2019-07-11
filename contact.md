@@ -6,7 +6,7 @@ permalink: /contact/
 ***
 
 ### 기술지원 문의 : 
->- Support Desk : aws.support@saltware.co.kr
+>- Support Desk : [aws.support@saltware.co.kr](mailto:aws.support@saltware.co.kr)
 >- 주간 : 02-2025-4927
 >- Advanced Carepack + 긴급 전화 : 02-850-7765
 
