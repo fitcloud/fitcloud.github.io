@@ -6,9 +6,9 @@ permalink: /contact/
 ***
 
 ### 기술지원 문의 : 
-> Support Desk : aws.support@saltware.co.kr
-> 주간 : 02-2025-4927
-> 야간 및 공휴일 : 02-850-7765
+>- Support Desk : aws.support@saltware.co.kr
+>- 주간 : 02-2025-4927
+>- 야간 및 공휴일 : 02-850-7765
 
 ### AWS Advanced Consulting Partner [[AWS Partner 정보](https://aws.amazon.com/ko/partners/find/partnerdetails/?n=Saltware&id=001E000000xHZ4MIAW#psf-solutions)]
 ![cms_fitcl_partnership_01](https://user-images.githubusercontent.com/30482872/29053412-f0a528ca-7c2a-11e7-93d1-94664b2058fb.gif)
