@@ -1,22 +1,22 @@
 ---
 layout: page
-title: Cloud Concierge by Saltware
+title: 채용공고
 permalink: /jobs/
 ---
 ***
 
-### 기술지원 문의 : 
->- Support Desk : [aws.support@saltware.co.kr](mailto:aws.support@saltware.co.kr)
->- 주간 : 02-2025-4927
+### Description: 
 
 
-### Contact Us
+### Roles & Responsibiities
 
 
-> TEL : +82-2-2025-4927
+### Basic qualifications
 
-[aws.sales@saltware.co.kr](mailto:aws.sales@saltware.co.kr)
+### Preferred qualifications
 
-[http://www.saltware.co.kr](http://www.saltware.co.kr)
+### Additional info
 
-[https://www.fitcloud.co.kr](https://www.fitcloud.co.kr)
+
+
+
