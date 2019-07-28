@@ -7,17 +7,8 @@ permalink: /jobs/
 
 ### 채용부분
 
-|클라우드 Solution Architect (SA)   | Description                                                                                                           |
-|-------------------------------|-----------------------------------------------------------------------------------------------------------------|
-|담당업무 ( Roles & Description )   |
-- AWS 클라우드 설계 
-- 제안서 작성 및 제안 
-- AWS 도입 프로젝트 PM, PL 
-- AWS 도입 컨설팅(pre-sales)                                         |
-|자격요건 (Basic Qualifications)    |
-- IT 분야(개발, SE, SA) 3년 이상 경력 보유 
-- 프리젠테이션 스킬 
-- 커뮤니케이션 스킬 
-- 제안서 등 문서 작성 유경험자                                       |
-|우대사항 (Preferred Qualifications)|- WEB/WAS 경험자 - DBA 경험자 - AWS Certification 취득자 - Migration 경험자 - AWS 활용 Big Data 분석 경험자 - Micro Architecture 가능자|
-|Additional Info                |                                                                                                                 |
+| 담당 업무<br /> ( Roles ) | 내역 <br /> ( Descrpiption )                                 | 자격 요건 <br /> ( Basic Qualifications)                     | 우대사항<br /> (Preferred Qualifications)                    |
+| ------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Solution Architect (SA)   | -AWS 클라우드 설계  <br />제안서 작성 및 제안 <br /> AWS 도입 프로젝트 PM, PL <br /> AWS 도입 컨설팅(pre-sales) | IT 분야(개발, SE, SA) 3년 이상 경력 보유<br />  프리젠테이션 스킬  <br />커뮤니케이션 스킬 <br /> 제안서 등 문서 작성 유경험자 | WEB/WAS 경험자 <br /> DBA 경험자 <br />AWS Certification 취득자 <br />Migration 경험자 <br />AWS 활용 Big Data 분석 경험자 <br /> Micro Architecture 가능자 |
+| Technical Support (TS)    |                                                              |                                                              |                                                              |
+|                           |                                                              |                                                              | \|                                                           |
