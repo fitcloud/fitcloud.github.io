@@ -20,29 +20,85 @@ permalink: /jobs/
 
   
 
-
-
 ### 모집부분
 
-#### SA 팀
-
-| 담당 업무<br /> ( Roles ) | 내역 <br /> ( Description)                                   | 자격 요건 <br /> ( Basic Qualifications)                     | 우대사항<br /> (Preferred Qualifications)                    |
-| ------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Solution Architect (SA)   | - AWS 클라우드 설계  <br />   - 제안서 작성 및 제안 <br />   - AWS 도입 프로젝트 PM, PL <br />   - AWS 도입 컨설팅(pre-sales) | - 3Tier 아키턱처 구성 가능<br />  - AWS 에 대한 기본 지식<br />  - 프리젠테이션 스킬  <br />   - 커뮤니케이션 스킬 <br />   -  제안서 등 문서 작성 유경험자 | - WEB/WAS 경험자 <br />  -  DBA 경험자 <br />  - AWS Certification Pro 취득자 <br />  - Middleware / DB Migration 경험 <br />  - AWS 활용 Big Data 분석 경험 <br />  -  Micro Service Architecture (MSA)기반 개발 경험<br />  - 프론트엔드 또는 백엔드 개발 경험 |
-
-#### TS팀
-
-| 담당 업무<br /> ( Roles ) | 내역 <br /> ( Description)                                   | 자격 요건 <br /> ( Basic Qualifications)                     | 우대사항<br /> (Preferred Qualifications)                    |
-| ------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Technical Support (TS)    | - AWS 클라우드 구축<br />  - 고객 기술지원 <br />  - 장애 처리 및 조치<br />  - 클라우드 인프라 분석 및 보고 | - OSI 7 Layer 에 대한 이해<br />  - Linux 및 서버가상화에 대한 이해<br />  - 커뮤니케이션 스킬<br />  - 보고서 및 사용 가이드 등 문서 작성 | - WEB/WAS 구성 경험<br />  - DBA 경험<br />  - AWS Certification 취득자<br />  - Site-Site VPN 구성 및 라우팅<br />  - DevOps 구성<br />  - CDN 기술지원 |
 
 
+#### Senior Solution Arhchitect - SA Team
 
-#### 영업팀
+**<u>Roles & Responsibilities</u>**
 
-| 담당 업무<br /> ( Roles ) | 내역 <br />( Description)                                    | 자격 요건 <br /> ( Basic Qualifications) | 우대사항<br /> (Preferred Qualifications) |
-| ------------------------- | ------------------------------------------------------------ | ---------------------------------------- | ----------------------------------------- |
-| Sales & Marketing         | - 고객 관리<br />  - MDF 관리<br />  - 각종 행사 및 세미나 기획 및 진행 | - 보고서 및 문서 작성 능력               | - IT 영업/ 마케팅 경험                    |
+- AWS 클라우드 아키텍처 설계
+- AWS Well Architected Review
+- 클라우드 아키턱처 및 비용 최적화 컨설팅
+- 클라우드 도입 컨설팅
+- 주요 고객 전담 지원
+
+**<u>Basic Qualifications</u>**
+
+- 3+ 년 IT 관련 업무 및 지식 ( 클라우드 컴퓨팅, 가상화에 대한 기본 지식 )
+- PPT 등을 활용한 인프라 설계
+- 문서작성, 프리젠테이션 및 대 고객 커뮤니케이션 스킬 ( 한국어 )
+- 복수의 프로젝트 관리 및 멀티 태스크 역량 - 업무 우선 순위 설정 , 계획 및 수행 능력
+- 최신 기술을 빠르게 습득할 수 있는 능력
+
+**<u>Preferred Qualifications</u>**
+
+- 프론트엔드 및 백엔드 개발 경력
+- AWS 자격증 보유
+- MSA, DevOps, Container 에 대한 이해 및 경력
+- 3Tier 환경에서의 인프라 구성 경력 ( Web - WAS - DB )
+- Middlesware 구성 및 기술 지원 경력
+- DBA 또는 ETL 경력
+- AWS 환경의 BigData 구성 및 분석 경험
+
+
+
+#### Sinior / Junior Technical Support Engineer - TS Team
+
+**<u>Roles & Responsibilities</u>**
+
+- AWS 환경의 인프라 구성
+- Site-to-Site VPN 구성
+- 고객 기술 지원 및 AWS 케이스 오픈 대행
+- AWS 환경에서 긴급 장애 처리 및 조치
+- 클라우드 인프라 분석 및 보고자료 작성
+
+**<u>Basic Qualifications</u>**
+
+- 경력 : 3+ 년 IT 관련 업무 및 지식 ( 클라우드 컴퓨팅, 가상화에 대한 기본 지식 ) 
+- 신입 : IT 전공 학과 졸업 또는 동종의 교육 이수
+- OSI 7 Layer 에 대한 이해
+- Linux, Windows 와 같은 x86 기반의 OS 에 대한 이해 및 구성
+- 보고서, 사용자 가이드등 문서 작성 및 고객 커뮤니케이션 스킬 ( 한국어 )
+- AWS 케이스 문서 작성 ( 영어 )
+
+**<u>Preferred Qualifications</u>**
+
+- Tomcat / JBoss 구성 경험 ( 세션클러스터링 구성 )
+- Oracle, MySQL, MariaDB, PostgreSQL 구성 및 지원 경험
+- DevOps, CI/CD, Container 구성 및 지원 경험
+- Site-to-Site VPN, Routing, ACL 구성 및 지원 경험
+- CDN 구성 및 분석 경험
+- 프론트엔드 개발 경험
+
+
+
+#### Marketing Assistant - Sales Team
+
+**<u>Roles & Responsibilities</u>**
+
+- 고객 현황 관리
+- MDF 신청 및 관리
+- 각종 행사 및 세미나 기획 및 진행
+
+**<u>Basic Qualifications</u>**
+
+- 보고서 및 문서 작성 능력
+
+**<u>Preferred Qualifications</u>**
+
+- IT 영업 지원 및 마케팅 경험
 
 
 
