@@ -3,7 +3,6 @@ layout: page
 title: 채용공고
 permalink: /jobs/
 ---
-
 # SALTWARE F!T Cloud 채용 안내
 
 > 2019 AWS Rising Star Partner 사인 솔트웨어에서 클라우드 전문 인력을 채용합니다.
@@ -24,7 +23,7 @@ permalink: /jobs/
 
 
 
-#### Senior Solution Arhchitect - SA Team
+## Senior Solution Arhchitect - SA Team
 
 **<u>Roles & Responsibilities</u>**
 
@@ -54,7 +53,8 @@ permalink: /jobs/
 
 
 
-#### Sinior / Junior Technical Support Engineer - TS Team
+
+## Sinior / Junior Technical Support Engineer - TS Team
 
 **<u>Roles & Responsibilities</u>**
 
@@ -84,7 +84,7 @@ permalink: /jobs/
 
 
 
-#### Marketing Assistant - Sales Team
+## Marketing Assistant - Sales Team
 
 **<u>Roles & Responsibilities</u>**
 
