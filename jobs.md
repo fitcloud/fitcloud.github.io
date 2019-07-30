@@ -100,8 +100,8 @@ permalink: /jobs/
 
 - IT 영업 지원 및 마케팅 경험
 
-
+------
 
 ### 이력서 제출 및 채용 관련 문의 : 
 
-iyham@saltware.co.kr / +82-2025-4927
+iyham@saltware.co.kr / +82-2-2025-4927
