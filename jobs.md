@@ -23,7 +23,7 @@ permalink: /jobs/
 
 
 
-## Senior Solution Arhchitect - SA Team
+## Senior Solution Arhchitect - SA Team ( 경력 )
 
 **<u>Roles & Responsibilities</u>**
 
@@ -54,7 +54,7 @@ permalink: /jobs/
 
 
 
-## Sinior / Junior Technical Support Engineer - TS Team
+## Senior / Junior Technical Support Engineer - TS Team ( 경력 / 신입 )
 
 **<u>Roles & Responsibilities</u>**
 
@@ -84,7 +84,7 @@ permalink: /jobs/
 
 
 
-## Marketing Assistant - Sales Team
+## Marketing Assistant - Sales Team ( 경력 / 신입 )
 
 **<u>Roles & Responsibilities</u>**
 
