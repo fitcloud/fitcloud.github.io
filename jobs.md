@@ -23,7 +23,7 @@ permalink: /jobs/
 
 
 
-## Senior Solution Arhchitect - SA Team ( 경력 )
+## Senior Solution Architect - SA Team ( 경력 )
 
 **<u>Roles & Responsibilities</u>**
 
