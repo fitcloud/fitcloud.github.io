@@ -47,7 +47,7 @@ permalink: /jobs/
 - AWS 자격증 보유
 - MSA, DevOps, Container 에 대한 이해 및 경력
 - 3Tier 환경에서의 인프라 구성 경력 ( Web - WAS - DB )
-- Middlesware 구성 및 기술 지원 경력
+- Middleware 구성 및 기술 지원 경력
 - DBA 또는 ETL 경력
 - AWS 환경의 BigData 구성 및 분석 경험
 
