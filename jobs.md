@@ -82,7 +82,24 @@ permalink: /jobs/
 - CDN 구성 및 분석 경험
 - 프론트엔드 개발 경험
 
+## Senior / Junior Sales Representitive - Sales Team ( 경력/신입 )
 
+**<u>Roles & Responsibilities</u>**
+
+- 신규 고객 발굴
+- 기존 고객 관리
+
+**<u>Basic Qualifications</u>**
+
+- 학사 이상 학력 보유
+- IT 인프라, 클라우드 및 최신 IT 트렌드에 대한 전반적인 이해
+- 발표, 현상 등 커뮤티케이션 역량
+
+**<u>Preferred Qualifications</u>**
+
+- 컴퓨터, 전산등 IT 관련학과 전공
+- AWS  등 관련 자격증 보유
+- 비즈니스 영어회화 및 문서 작성 능력
 
 ## Marketing Assistant - Sales Team ( 경력 / 신입 )
 
