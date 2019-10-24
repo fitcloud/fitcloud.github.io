@@ -14,21 +14,23 @@ permalink: /contact/
 ![image](https://user-images.githubusercontent.com/29446742/53073608-dbdbed00-352b-11e9-8197-efbef0329240.png)
 
 
-### Technical Specialist
+### Cloud Concierge
 >- Luke - Chief Cloud Concierge
->- Jongbaek Seo - Cloud Concierge [Finance and Security Specialist]
->- Jungki Gong - Cloud Concierge [BigData Specialist]
->- Daesub Lee - Cloud Concierge [Financal industry Specialist]
->- Wonguen Cho - Cloud Concierge [Network and Security Specialist]
->- Howon Yun - Cloud Concierge [DevOps and Security Specialist]
->- SungTaek Hong - Cloud Concierge [DevOps and ML Specialist]
->- Dohoon Lee - Cloud Concierge [Cloud Database Specialist]
->- Minseok Song - Cloud Concierge [BigData Specialist]
+>- Jongbaek Seo - SA Leader
+>- Jungki Gong - DevOps Professional, BigData Specialist
+>- Daesub Lee - AI/ML Specialist, Financal industry Specialist
+>- Wonguen Cho - DevOps Professional, Contents Delivery and Media Specialist
+>- Yousik Kim - TS Leader
+>- Youngwoo Jung - DevOps Professional, AL/ML Specialist, BigData Specialist, Security Sepcialist
+>- Howon Yun - DevOps Professional, Container Specialist
+>- SungTaek Hong - DevOps Professional, AI/ML Specialist
+>- Dohoon Lee - DevOps Professional
+>- Minseok Song - DevOps Professional
+>- Dawon Lee - DevOps Professional
 
 ***
 
 ### Contact Us
-
 
 > TEL : +82-2-2025-4927
 
