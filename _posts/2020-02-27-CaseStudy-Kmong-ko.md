@@ -42,28 +42,28 @@ date: 2020-02-27
 
 ### How AWS services were used as part of the solution
 #### 사용된 AWS Service
-- **API Gateway**
++ **API Gateway**
  - Billing API 호출부에 대한 Gateway 역할
-- **Code Series**
++ **Code Series**
  - CodeCommit : 개발 Code의 통합을 위한 Git Repository로 활용
  - CodeBuild : source repository의 code compile/test 후 ECR에 Push 용도
  - CodeDeply : 최종 Application의 배포를 위해 활용하며, CodeDeploy를 이용하여 Blue/Green    배포를 적용함.
  - CodePipeLine : Code Commit 부터 Deploy까지 전반적인 배포 워크플로우를 관장하는 역할이며 Dev/Stage/Product 까지 자동 배포될 수 있게 구성
-- **Cloud Formation**
++ **Cloud Formation**
  - 인프라의 변경 사항 및 추가 사항 등 자동화된 Provisioning을 위해 활용
-- **ECS (Fargate/ECR)**
++ **ECS (Fargate/ECR)**
  - Fargate : Server관리의 최소화를 위해 활용 (대부분 EC2에서 Fargate로 전환)
  - ECR : Container image Repository로 활용
-- **CloudWatch & ElasticSearch**
++ **CloudWatch & ElasticSearch**
  - Cloudwatch : 각종 서비스 Alarm 및 CloudWatch Logs로 Log 통합 및 모니터링 DashBoard 활용
  - ElasticSearch : Log 통합 모니터링 Tool로 활용
-- **IAM, Etc… (ELB,RDS 등)**
++ **IAM, Etc… (ELB,RDS 등)**
  - IAM : 개발자 및 운영자가 AWS에 Access 할 수있는 용도로 활용
  - IAM 계정 활용 원칙 요약
-   - IAM 계정은 1인 1계정 발급하며, 계정에 대해서는 MFA, 주기적인 암호교체, No Credential key 를 원칙으로 생성
-   - 기본적으로 User 계정은 최소 권한(아무 권한이 없는 계정)을 원칙으로 발급
-   - Service 별 Admin/Developer/Operator로 IAM Group을 생성하여 각 Group군에 필요한 Service 권한을 매칭 하고 User에 Group을 할당 함.
-   - 각 Group의 추가 권한은 필요 시 Admin에 요청하여 할당
+   * IAM 계정은 1인 1계정 발급하며, 계정에 대해서는 MFA, 주기적인 암호교체, No Credential key 를 원칙으로 생성
+   * 기본적으로 User 계정은 최소 권한(아무 권한이 없는 계정)을 원칙으로 발급
+   * Service 별 Admin/Developer/Operator로 IAM Group을 생성하여 각 Group군에 필요한 Service 권한을 매칭 하고 User에 Group을 할당 함.
+   * 각 Group의 추가 권한은 필요 시 Admin에 요청하여 할당
 
 ### Third party applications or solutions used
  - None
@@ -78,6 +78,7 @@ date: 2020-02-27
 - Service 분리로 인한 Application 배포 소요 시간 단축
 - Application Release 배포 기간 단축
 
+<br>
 
 ```
 ※ 배포 소요 시간 단축
