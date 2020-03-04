@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AWS CaseStudy-크몽
+title: AWS CaseStudy-Kmong(en)
 date: 2020-02-27
 ---
 
@@ -45,7 +45,7 @@ date: 2020-02-27
 + **Cloud Formation**
 + **ECS (Fargate/ECR)**
 + **CloudWatch & ElasticSearch**
-+ **IAM, Etc… (ELB,RDS 등)**
++ **IAM, Etc… (ELB,RDS etc.)**
 
 
 ### Outcomes
