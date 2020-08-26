@@ -19,7 +19,6 @@ date: 2020-03-04
 
 
 
- ![](../images/CaseStudy/2020-03-04-Refine/architecture-1.png)
 
  ![](../images/CaseStudy/2020-03-04-Refine/architecture-2.png)
 
